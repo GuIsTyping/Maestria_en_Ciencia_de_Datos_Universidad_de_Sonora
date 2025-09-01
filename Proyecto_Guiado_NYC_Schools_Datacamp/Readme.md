@@ -1,0 +1,1 @@
+Este proyecto es una práctica de exploración y manipulacion de datos con Pandas en Datacamp para el curso de Ingeniería de Características de la Maestría en Ciencia de Datos de la Univesidad de Sonora
